@@ -120,7 +120,7 @@ Python Basics  →  Control Flow  →  Collections  →  Functions
 
 **17 / 55 topics completed**
 
-![Progress](https://progress-bar.xyz/16/?title=Journey&width=400&color=7DC4FF)
+![Progress](https://progress-bar.xyz/30.9/?title=Journey&width=400&color=7DC4FF)
 
 </div>
 
