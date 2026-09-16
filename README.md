@@ -118,7 +118,7 @@ Python Basics  →  Control Flow  →  Collections  →  Functions
 
 ### 📈 Overall Progress
 
-**9 / 55 topics completed**
+**17 / 55 topics completed**
 
 ![Progress](https://progress-bar.xyz/16/?title=Journey&width=400&color=7DC4FF)
 
@@ -194,9 +194,9 @@ python/
 
 ## 🌱 Currently On
 
-### **Next up: Type Conversion & Booleans**
+### **Next up: Data Structures**
 
-*(Just wrapped up String Methods & Slicing ✅)*
+*(Just wrapped up loops ✅)*
 
 ---
 
