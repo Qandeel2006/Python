@@ -45,15 +45,15 @@ Python Basics  →  Control Flow  →  Collections  →  Functions
 - [x] Strings — Basics
 - [x] String Methods
 - [x] String Slicing
-- [ ] Type Conversion
-- [ ] Booleans
+- [x] Type Conversion
+- [x] Booleans
 - [ ] Immutability
 
 ### 🔄 Control Flow
-- [ ] `if` / `elif` / `else`
-- [ ] Nested Conditions
-- [ ] `for` loops
-- [ ] `while` loops
+- [x] `if` / `elif` / `else`
+- [x] Nested Conditions
+- [x] `for` loops
+- [x] `while` loops
 - [ ] `break` / `continue` / `pass`
 
 ### 📦 Collections
@@ -80,7 +80,7 @@ Python Basics  →  Control Flow  →  Collections  →  Functions
 - [ ] `pip` & Installing Libraries
 
 ### 🛡️ Error Handling
-- [ ] `try` / `except` / `else` / `finally`
+- [x] `try` / `except` / `else` / `finally`
 - [ ] Raising Exceptions
 - [ ] Handling Common Errors
 
@@ -105,6 +105,7 @@ Python Basics  →  Control Flow  →  Collections  →  Functions
 - [ ] Exploratory Data Analysis
 
 ### 🚀 First Projects
+- [x] Greeting System
 - [ ] Number Guessing Game
 - [ ] Calculator
 - [ ] To-Do List
@@ -151,19 +152,19 @@ No pressure to rush. Understanding beats speed at this stage.
 python/
 │
 ├── 01-basics/
-│   ├── variables.py
-│   ├── data_types.py
-│   └── operators.py
+│   ├── variables.py            ✅ completed
+│   ├── data_types.py           ✅ completed
+│   └── operators.py            ✅ completed
 │
 ├── 02-strings/
 │   ├── string_methods.py       ✅ completed
 │   └── string_slicing.py       ✅ completed
 │
-├── 03-conditionals/            🔜 next up
+├── 03-conditionals/            ✅ completed
 │
-├── 04-loops/
-├── 05-data-structures/
-├── 06-functions/
+├── 04-loops/                   ✅ completed
+├── 05-data-structures/         🔜 next up
+├── 06-functions/               ✅ completed
 ├── 07-modules-packages/
 ├── 08-exceptions/
 ├── 09-oop/
